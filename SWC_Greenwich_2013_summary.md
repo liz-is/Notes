@@ -33,7 +33,6 @@ Software Carpentry summary
 **Friday**
 
 4. Python
-
 	- iPython Notebook: cells can be code, or markdown, or plain text; can include LaTeX
 	- Python is fast to read / write but comparatively slow to run: use for small simple jobs where optimisation is not necessary
 	- classes: cannot add '2' and 3 (string v integer)
@@ -42,7 +41,6 @@ Software Carpentry summary
 	- can open data files within iPython Notebook
 
 5. Version Control: Git
-
 	- adding a remote repository
 	- pushing to / pulling from a remote repository
 	- cloning someone else's repository
@@ -66,7 +64,6 @@ Software Carpentry summary
 	- instructors' course in Jan
 
 7. Links and reading
-
 	- http://test.development.rc.ucl.ac.uk/training/carpentry/git.html#/
 	- Visual Quickstart: Unix and SQL
 	- why Python is zero-indexed: https://plus.google.com/app/basic/stream/z13evl5h2xzuwb25w04cfph4co2xuf2a12s
@@ -75,7 +72,6 @@ Software Carpentry summary
  	- http://www2.smartbear.com/Best-Kept-Secrets-Code-Review.html
 
 8. Things I wish had been covered:
-
 	- git: gitignore, checkout (how does this differ from clone?)
 	- testing
 	- luckily there is info on these covered online!
